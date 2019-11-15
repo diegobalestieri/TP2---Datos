@@ -1,2 +1,6 @@
 
 Andy/train.csv
+
+data/*
+
+*/.ipynb_checkpoints/*
