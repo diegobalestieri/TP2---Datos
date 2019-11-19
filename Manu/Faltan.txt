@@ -1,0 +1,4 @@
+Faltan:
+
+
+- TEXTO: n-gramas.
